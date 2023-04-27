@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OS Task Manager</string>
+    <string name="about">About</string>
+    <string name="about_me">About the application</string>
+    <string name="menu_settings">Settings</string>
+    <string name="kill_sel">Kill</string>
+    <string name="kill_all">Kill All</string>
+    <string name="leftMem">Left Memory</string>
+    <string name="system_info">System Message</string>
+    <string name="welcome">Welcome</string>
+    <string name="proNum">Total Number of processes</string>
+    <string name="refresh">Refresh</string>
+    <string name="cancel">Cancel</string>
+    <string name="detail">Details</string>
+    <string name="tasks">Running Tasks</string>
+
+    <string-array name="operation">
+        <item>KILL THE PROCESS</item>
+        <item>Check the Details</item>
+        <item>Add to Black List</item>
+        ></string-array>
+
+    <string name="title_activity_black_name">BlackName</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
